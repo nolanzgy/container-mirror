@@ -13,6 +13,6 @@
 
 # 此行以及以上内容请勿删除。新images在此行下添加。提交新的images时，请删除旧的images
 
-# update nexus3-oss
-quay.io/travelaudience/docker-nexus:3.29.2
+# update metrics-serve
+k8s.gcr.io/metrics-server/metrics-server:v0.5.0
 
